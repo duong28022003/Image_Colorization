@@ -14,6 +14,8 @@
 
 *Chi tiết về các phương pháp được trình bày trong file `Report.pdf`*
 
+*Hiện tại, đồ án này đang được cải tiến bằng cách sử dụng mô hình hiện đại như Visionn Transformer hay CycleGAN*
+
 ---------
 
 # Demo

@@ -35,8 +35,11 @@
 3. **Tùy chỉnh mô hình**:  
     Thay đổi mô hình sử dụng bằng cách chỉnh sửa file `app.py`.
 
+    Tải trọng số của mô hình tại đường dẫn sau: ![GAN.pth](src="https://drive.google.com/file/d/1Xq1L9hqlgL0XBuofKrT44mTQQVYa6RbN/view")
+
 4. **Xem kết quả**:  
     Kết quả sẽ được lưu trong thư mục `static/outputs`.
     <p align="center">
         <img src="output.png" alt="Demo Output">
-    </p># Image_Colorization
+    </p>
+

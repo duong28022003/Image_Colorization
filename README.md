@@ -35,7 +35,7 @@
 3. **Tùy chỉnh mô hình**:  
     Thay đổi mô hình sử dụng bằng cách chỉnh sửa file `app.py`.
 
-    Tải trọng số của mô hình tại đường dẫn sau: ![GAN.pth](https://drive.google.com/file/d/1Xq1L9hqlgL0XBuofKrT44mTQQVYa6RbN/view?usp=sharing)
+    Tải trọng số của mô hình GAN tại đường dẫn sau: [GAN.pth](https://drive.google.com/file/d/1Xq1L9hqlgL0XBuofKrT44mTQQVYa6RbN/view?usp=sharing)
 
 4. **Xem kết quả**:  
     Kết quả sẽ được lưu trong thư mục `static/outputs`.
